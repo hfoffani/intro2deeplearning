@@ -48,6 +48,11 @@ https://speakerdeck.com/bargava/introduction-to-deep-learning
     $ source env/bin/activate
     ```    
 
+* Upgrade pip
+   ```
+   $ pip install -U pip
+   ```
+
 * Install requirements using pip
 
     ```
